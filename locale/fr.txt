@@ -1,0 +1,23 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = T3Architecture/Icade
+
+## Skin
+
+### Label
+label4056.text = Le Ruffi - ICADE
+
+## Media
+
+### Title
+panorama_E02EA864_EAC5_19DC_41EA_48477B372C20.label = Lobby
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://t3architecture.fr/
